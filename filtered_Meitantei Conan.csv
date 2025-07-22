@@ -1,226 +1,57 @@
 Reading,ReadingFurigana,ReadingKana,Occurences,ReadingFrequency,PitchPositions,Definitions
 
-
-この人,この人[ひと],このひと,532,701,"2,4","this person,he,she"
-光彦,光彦,,527,59227,,"Teruhiko,Mitsuhiko"
-すう,すう,すう,521,486,0,"to smoke,to breathe in,to inhale,to suck,to sip,to slurp,to absorb,to soak up,to kiss"
-となる,となる,となる,511,904,,"to become,to be"
-ようだ,ようだ,ようだ,505,616,,"is like ...,is similar to ...,it seems that ...,it appears that ..."
-ですから,ですから,ですから,499,516,1,"so,therefore,accordingly,consequently,on those grounds,that is why,for that reason"
-佐藤,佐藤,,491,8185,0,"Satoo,Satoa,Sayuki"
-拳銃,拳[けん]銃[じゅう],けんじゅう,490,6954,0,"pistol,handgun"
-先に,先[さき]に,さきに,480,371,"0,1,0","previously,before,earlier,formerly,recently,first,before (something or someone else),ahead (of),earlier,beforehand,in advance,ahead of time"
-ばか,ばか,ばか,478,856,1,"idiot,moron,fool,stupid,foolish,dull,absurd,ridiculous,trivial,insignificant,disappointing,malfunctioning,defective,losing sensation,incredibly,unusually,exceptionally,fervent enthusiast,nut,person singularly obsessed with something,Mactra chinensis (species of trough shell)"
-米花,米花,,474,95260,,"Yonehana,Komehana,Yoneka"
-捜査,捜[そう]査[さ],そうさ,473,3319,1,"search (esp. in criminal investigations),investigation,inquiry,enquiry"
-何の,何[ど]の,どの,468,627,1,"which,what (way)"
-んな,んな,んな,450,1019,,"such (about the actions of the listener, or about ideas expressed or understood by the listener),like that,that sort of"
-坊主,坊[ぼう]主[ず],ぼうず,446,5794,1,"Buddhist priest,bonze,close-cropped hair,crew cut,person with a shorn head,boy,sonny,lad,not catching anything,the August 20-point card"
-例の,例[れい]の,れいの,445,1296,1,"the usual,as it always is,in the usual way,said,that (previously-mentioned person or object),aforementioned,you-know-(who, what, etc.)"
-何も,何[なに]も,なにも,444,335,"1,0","(not) anything,(nothing) at all,(not) any,nothing,and everything else,and all,(not) at all,(not) in the least,(not) especially,(not) to that extent"
-そっか,そっか,そっか,443,608,,"oh,right,I see,OK,gotcha"
-そいつ,そいつ,そいつ,437,883,0,"that,that one,that thing,he,she,that person,that guy,that fellow"
-時半,時[じ]半[はん],じはん,435,4565,,half past (the hour)
-容疑者,容[よう]疑[ぎ]者[しゃ],ようぎしゃ,430,5197,3,suspect
-じゃないか,じゃないか,じゃないか,428,497,,"isn't it?,let's ...,why don't we ...,how about we ...,shouldn't we ..."
-２つ,２[ふた]つ,ふたつ,427,1238,"0,3",two
-えっと,えっと,えっと,426,687,"0,3","let me see,well,errr ...,uhh ..."
-その人,その人[ひと],そのひと,422,1210,"4,2","prominent figure,distinguished person,that person,the person in question"
-おめえ,おめえ,おめえ,408,4063,,you
-由美,由美,,402,29940,,"Yūmi,Naomi"
-君たち,君[きみ]たち,きみたち,400,1524,"2,3","you (plural),all of you,you all"
-メガネ,メガネ,メガネ,399,4770,1,"glasses,eyeglasses,spectacles,judgment,judgement,discrimination,discernment,insight,four-eyes"
-おくる,おくる,おくる,397,356,0,"to give (as a gift),to present,to confer,to bestow,to award"
-ロープ,ロープ,ロープ,397,6551,1,rope
-まるで,まるで,まるで,397,557,0,"quite,entirely,completely,at all,as if,as though,just like"
-勝手に,勝[かっ]手[て]に,かってに,394,484,0,"arbitrarily,of its own accord,without asking,voluntarily,willfully,as one pleases,selfishly,by itself,automatically"
-わあ,わあ,わあ,392,1107,1,"wow!,oh!,eek!,gee!,yeah!,alright!,hurray!,waah!,boohoo!"
-としても,としても,としても,389,645,,"also as ...,also for ...,also from the position of ...,even if ...,even supposing that ..."
-かどうか,かどうか,かどうか,388,658,,"whether or not (in phrases like ""I don't know whether or not I can come"")"
-オバー,オバー,オバー,387,1911,,Ober
-見せかける,見[み]せかける,みせかける,385,5058,"0,4","to pretend,to feign"
-和葉,和葉,,383,86544,1,"Kazuyou,Kazuha,Yasuha,Waba"
-ばれる,ばれる,ばれる,379,891,2,"to leak out (of a secret),to come out,to be exposed (of a lie, improper behaviour, etc.),to be found out,to be discovered,to get away (of a fish)"
-人たち,人[ひと]たち,ひとたち,377,728,2,people
-コラ,コラ,コラ,374,4394,1,"hey!,hey!"
-妻,妻[つま],つま,373,1481,1,"wife,garnish (esp. one served with sashimi),trimmings,accompaniment,side (remark)"
-千葉,千[ち]葉[ば],ちば,372,10811,1,"Chiba (city, prefecture)"
-すぎ,すぎ,すぎ,372,783,2,"too (much),over- (e.g. eating),past,after"
-ということは,ということは,ということは,371,1364,,"that is to say,so that means"
-お兄さん,お兄[にい]さん,おにいさん,367,2189,2,"young man,buddy,fella,laddie,older brother,elder brother"
-４人,４[よ]人[にん],よにん,367,2164,"4,0",four people
-８時,８[はち]時[じ],はちじ,363,5494,2,eight o'clock
-動機,動[どう]機[き],どうき,363,4131,0,"motive,incentive,motif"
-である,である,である,359,402,,"be,is"
-服部,服部,,358,31546,3,"Hattori,Abe,Hatoribe"
-お前ら,お前[まえ]ら,おまえら,357,732,,you (plural)
-っちゅう,っちゅう,っちゅう,354,6708,,"meaning,called,said"
-やろ,やろ,やろ,353,2889,1,"evening dew,night dew"
-まじ,まじ,まじ,349,663,1,"serious,not joking,straight"
-とおり,とおり,とおり,347,1067,3,"street,road,avenue,thoroughfare,traffic,coming and going,flow (of water, air, etc.),passage,running,transmission (of sound),reach (of voice),reputation,favor,favour,popularity,understanding,comprehension,comprehensibility,clarity,the same way (as),as (follows, stated, expected, etc.),counter for sets of things,counter for methods, ways, kinds, etc."
-メッセージ,メッセージ,メッセージ,346,2381,1,message
-ご主人,ご主[しゅ]人[じん],ごしゅじん,344,2611,,"your husband,her husband"
-ないか,ないか,ないか,344,442,,"won't you,won't,hasn't,isn't,doesn't"
-所で,所[ところ]で,ところで,343,946,3,"by the way,incidentally,well,now,even if,no matter (what, where, how, etc.)"
-殺人事件,殺[さつ]人[じん]事[じ]件[けん],さつじんじけん,343,6396,5,murder case
-ところで,ところで,ところで,338,469,3,"by the way,incidentally,well,now,even if,no matter (what, where, how, etc.)"
-よーし,よーし,よーし,335,2404,1,"alright,all right,right on,looking good,OK,okay"
-オジー,オジー,オジー,331,1926,,Ozzie
-どっか,どっか,どっか,328,1120,1,"somewhere,in some respects,in some way"
-ほんま,ほんま,ほんま,328,6786,0,"truth,reality"
-ベランダ,ベランダ,ベランダ,328,10352,0,"veranda,verandah,porch,balcony"
-こそ,こそ,こそ,326,278,,"it is ... that ...,precisely,in particular,definitely,for sure,only (when, after, because, etc.),although,while,it is the case that ... but,it is precisely because ... that ...,only because ...,not at all,not in the slightest,absolutely not,never"
-件,件[けん],けん,326,760,1,"matter,affair,case,item,subject,counter for (received) emails, text messages, voicemail messages, etc.,counter for accounts (on a website, email service, etc.)"
-哀,哀[あい],あい,326,29617,1,"pity,sorrow,grief,misery"
-でしょうか,でしょうか,でしょうか,324,452,,"don't you think?,indicates question"
-引っかかる,引[ひ]っかかる,ひっかかる,321,3157,4,"to be on one's mind,to worry one,to be bothered by,to feel uneasy,to fall for (a trick),to be deceived,to be cheated,to get mixed up in (trouble),to get entangled in (a problem),to be involved with,to stop by,to drop in for a short visit,to be delayed,to take time,to be caught in,to be stuck in,to splash,to be obstructed,to be hindered"
-はーい,はーい,はーい,315,1701,1,"yes,that is correct,giddy-up,giddap,now,here,here you go,pardon?,what's that?,come again?,present,here,understood,I see,OK,okay"
-テープ,テープ,テープ,312,7912,1,tape
-それも,それも,それも,312,528,,"and in addition to that,even so"
-それじゃあ,それじゃあ,それじゃあ,311,1225,"3,0","that way (would mean ...),if that is the case,in that case,well, ...,right, ...,now, ...,so,then,bye then"
-そのまま,そのまま,そのまま,311,536,4,"immediately,just after,without a pause,just like,extremely similar,without change,as is"
-１時間,１[いち]時[じ]間[かん],いちじかん,311,2487,3,one hour
-んん,んん,んん,310,1163,,"huh?,what?,nuh-uh,no,hm,um"
-自分で,自[じ]分[ぶん]で,じぶんで,307,396,,"by myself,in person,by oneself"
-もう一度,もう一[いち]度[ど],もういちど,305,634,,"once more,again"
-による,による,による,303,863,,"by means of,due to,because of,according to"
-のです,のです,のです,303,459,,"the expectation is that ...,the reason is that ...,the fact is that ...,the explanation is that ...,it is that ..."
 仮面,仮[か]面[めん],かめん,303,5124,0,"mask,disguise,guise,mask"
-何だって,何[なん]だって,なんだって,302,2874,1,"anyone,anything,why?,what for?,for what reason?,what?!,what did you say?!"
-おう,おう,おう,298,558,1,"agreement,affirmative,aye,yes,OK,okay,yeah,all right"
-ずいぶん,ずいぶん,ずいぶん,298,1595,1,"remarkable,extraordinary,very,extremely,surprisingly,fairly,quite,considerably,awfully,terribly,terrible,horrid,contemptible,reprehensible"
 解ける,解[と]ける,とける,295,2361,3,"to be solved,to be resolved,to loosen,to come untied,to come undone,to be removed (of restrictions),to be lifted (e.g. a ban),to be broken (spells, curses, etc.),to dissipate (of anger, tension, etc.),to melt away,to ease,to be appeased,to be resolved (of a dispute, misunderstanding, etc.),to be cleared up"
 救急車,救[きゅう]急[きゅう]車[しゃ],きゅうきゅうしゃ,292,3342,3,ambulance
-俺ら,俺[おれ]ら,おれら,291,1842,1,"we,us,I,me"
-だす,だす,だす,289,990,2,"to take out,to get out,to put out,to reveal,to show,to submit (e.g. thesis),to turn in,to publish,to make public,to send (e.g. letter),to produce (a sound),to start (fire),to serve (food),... out (e.g. to jump out, to carry out),to begin ...,to start to ...,to burst into ..."
-阿笠,阿笠,,289,76943,,Agasa
 別荘,別[べっ]荘[そう],べっそう,285,8269,"3,0","holiday house,vacation home,villa,prison,jail"
 怪盗,怪[かい]盗[とう],かいとう,283,22195,0,"mysterious thief,phantom thief"
 戸,戸[と],と,282,4954,0,"door (esp. Japanese-style),shutter,window shutter,entrance (to a home),narrows"
 ２階,２[に]階[かい],にかい,282,3975,0,"second floor,upstairs"
 とも,とも,とも,280,847,"0,1","together with,same,both,all,neither,none,including ..."
 からな,からな,からな,280,858,0,"Chinese name for a high government office (ritsuryō period),alias,pseudonym"
-こりゃ,こりゃ,こりゃ,277,1326,1,"hey there,I say,see here"
-９時,９[く]時[じ],くじ,276,5433,1,nine o'clock
 たつ,たつ,たつ,275,1054,1,"to sever,to cut off,to suppress,to eradicate,to exterminate,to abstain (from),to give up"
-さらに,さらに,さらに,275,1317,1,"furthermore,again,after all,more and more,moreover,even more"
-あなたたち,あなたたち,あなたたち,275,1480,,you (plural)
-呼び出す,呼[よ]び出[だ]す,よびだす,274,1541,3,"to call (someone) to (the door, phone, etc.),to tell (someone) to come,to call up (on the phone),to summon,to page,to invoke (e.g. a spirit),to invoke (e.g. a subroutine),to call,to open (e.g. a file)"
-はずです,はずです,はずです,273,1336,,"be supposed or expected to (do),be sure to (do),ought to (do)"
-ポケット,ポケット,ポケット,272,3605,"2,1",pocket
 眠り,眠[ねむ]り,ねむり,269,4404,0,"sleep,sleeping,inactivity,death"
-このまま,このまま,このまま,269,310,"4,0","as is,as it is,as things are,like this,this way,at this rate"
 真相,真[しん]相[そう],しんそう,268,4042,0,"truth,real situation"
 密室,密[みっ]室[しつ],みっしつ,267,10086,0,"locked room,secret room"
-ひどい,ひどい,ひどい,265,495,2,"cruel,heartless,hard,harsh,severe,violent,intense,strong,heavy,extreme,very bad,terrible,awful,excessive,exorbitant,unreasonable,outrageous,unfair,unjust"
-わけない,わけない,わけない,263,777,1,"there's no way that ...,easy,simple"
-ふーん,ふーん,ふーん,262,2095,"1,0","hmm,well ...,humph,huh,pshaw,pish,roughly,harshly,violently"
-こういう,こういう,こういう,260,376,0,"such,this sort of,like this"
 奥様,奥[おく]様[さま],おくさま,259,4321,1,"wife,your wife,his wife,married lady,madam"
-今日は,今[こん]日[にち]は,こんにちは,258,519,4,"hello,good day,good afternoon"
-おかげで,おかげで,おかげで,257,630,,"thanks to ...,owing to ...,because of ..."
-ねん,ねん,ねん,256,2744,,indicates emphasis
 袋,袋[ふくろ],ふくろ,255,2715,3,"plot of land surrounded by water,dead end,bag,sack,pouch,skin of an orange (and other like fruits)"
-１年,１[いち]年[ねん],いちねん,254,1388,2,"one year,some time ago"
-子供たち,子[こ]供[ども]たち,こどもたち,254,2473,3,children
-とる,とる,とる,252,410,1,"to take,to pick up,to grab,to catch,to hold,to pass,to hand,to give,to get,to obtain,to acquire,to win,to receive,to earn,to take (e.g. a vacation),to adopt (a method, proposal, etc.),to take (a measure, attitude, etc.),to choose,to remove,to get rid of,to take off,to take away,to steal,to rob,to eat,to have (e.g. lunch),to take (e.g. vitamins),to pick (e.g. flowers),to gather,to extract (e.g. juice),to catch (e.g. fish),to harvest (a crop),to take up (time, space),to occupy,to spare,to set aside,to secure,to reserve,to save,to put aside,to keep,to take (e.g. a joke),to interpret,to understand,to make out,to grasp,to record,to take down,to subscribe to (e.g. a newspaper),to take,to buy,to get,to order,to have delivered,to charge,to fine,to take (tax),to take (e.g. a wife),to take on (e.g. an apprentice),to adopt,to accept,to take control of,to take (the rudder),to compete (in sumo, cards, etc.),to play"
-ほうがいい,ほうがいい,ほうがいい,251,960,,"had better not ...,had better ..."
-ＦＢＩ,Ｆ[エフ]Ｂ[ビー]Ｉ[アイ],エフビーアイ,250,32676,,"Federal Bureau of Investigation,FBI"
-しばらく,しばらく,しばらく,247,584,2,"for a moment,for a minute,for a while,for some time,for the time being,for now,it's been a long time,long time no see"
-オーナー,オーナー,オーナー,247,6183,1,owner (esp. of a business)
-一度,一[いち]度[ど],いちど,246,416,2,"once,one time,on one occasion,temporarily,for a moment,one degree,one tone,one musical interval"
-わざと,わざと,わざと,245,1393,1,"on purpose,deliberately,intentionally"
-気になる,気[き]になる,きになる,244,914,,"to be interested (in),to be curious (about),to wonder (about),to catch one's eye,to weigh on one's mind,to bother one,to worry about,to be concerned about,to care about,to feel uneasy,to be anxious,to feel like (doing),to feel inclined to,to bring oneself to (do)"
-うわさ,うわさ,うわさ,244,2312,0,"rumour,rumor,report,hearsay,gossip,common talk"
-ハアハア,ハアハア,ハアハア,243,7383,1,"gasp,pant"
 恨む,恨[うら]む,うらむ,243,2123,2,"to bear a grudge against,to resent,to blame,to curse,to feel bitter towards"
-それだけ,それだけ,それだけ,243,374,"4,0","that much,as much,to that extent,only that,that alone,no more than that,that is all (when finished speaking)"
-他に,他[ほか]に,ほかに,242,1135,,"else,in addition,besides"
 鑑識,鑑[かん]識[しき],かんしき,242,13403,0,"judgement,judgment,discernment,discrimination,having an eye for,appraisal (e.g. of an antique),evaluation,assessment,forensics,(criminal) identification,crime lab"
-指,指[ゆび],ゆび,241,1219,2,"finger,toe,digit"
-ガラス,ガラス,ガラス,241,3688,1,"glass,pane"
 館,館[やかた],やかた,240,4878,"0,1","mansion,palace,manor house,castle,nobleman,noblewoman,dignitary,cabin (on a boat, carriage, etc.)"
 つかむ,つかむ,つかむ,239,1206,2,"to seize,to catch,to grasp,to grip,to grab,to clutch,to hold,to catch hold of,to lay one's hands on,to obtain,to acquire,to get,to win,to capture,to understand,to grasp,to comprehend"
 やいば,やいば,やいば,239,33215,"1,0","blade,sword,forged blade,wavy pattern on forged blades,sharpness,unhulled rice"
-ボタン,ボタン,ボタン,238,2954,"0,1","button (clothing),push-button,button"
 犯,犯[はん],はん,236,6339,,"perpetrators of (some) crime,(some type of) crime"
 左手,左[ひだり]手[て],ひだりて,235,3328,0,"left hand,left-hand side,left-hand direction,(on) the left"
-ケース,ケース,ケース,234,3470,1,"case (container),case (instance, situation),case"
-女の人,女[おんな]の人[ひと],おんなのひと,233,2798,6,woman
-しかたない,しかたない,しかたない,231,2226,4,"there's no (other) way,cannot be helped,unavoidable,inevitable,(there's) nothing one can do,having no choice,it's no use (doing),pointless,useless,no good,insufficient,not enough,hopeless (person),annoying,troublesome,awful,cannot stand it,unbearable,cannot help (doing, feeling),dying (to do)"
-お客様,お客[きゃく]様[さま],おきゃくさま,229,1564,"4,0,5","guest,visitor,customer,client,shopper,spectator,audience,tourist,sightseer,passenger"
-におい,におい,におい,228,2127,2,"smell,scent,odour,odor,stench,aura,whiff,smack,flavour,flavor,mood,faint, mist-like pattern along the temper line of a Japanese sword"
-だよね,だよね,だよね,228,1099,,"it is, isn't it?,I know, right?,innit?"
-ヨーコ,ヨーコ,ヨーコ,228,44204,,"Yo-ko,Yōko"
 着信音,着[ちゃく]信[しん]音[おん],ちゃくしんおん,227,7672,3,ringtone
-かぶる,かぶる,かぶる,226,2224,2,"to put on (one's head),to wear,to have on,to pull over (one's head),to crown (oneself),to be covered with (dust, snow, etc.),to pour (water, etc.) on oneself,to dash on oneself,to ship water,to bear (e.g. someone's debts, faults, etc.),to take (blame),to assume (responsibility),to shoulder (burden),to overlap (e.g. sound or color),to be similar,to be redundant,to be fogged (due to overexposure, etc.),to close,to come to an end,to get a full house,to sell out,to blunder,to bungle,to fail,to be deceived"
-わあっ,わあっ,わあっ,226,4365,1,"wow!,oh!,eek!,gee!,yeah!,alright!,hurray!,waah!,boohoo!"
-なければ,なければ,なければ,226,473,,"have to ...,must ...,if not ...,unless ...,if (it) doesn't exist,if there is no ...,if (one) doesn't have ..."
-７時,７[しち]時[じ],しちじ,226,5652,2,seven o'clock
 誘拐,誘[ゆう]拐[かい],ゆうかい,225,4471,0,"abduction,kidnapping,kidnaping"
-あの子,あの子[こ],あのこ,225,614,2,"you,that child,that kid,that boy,that girl,that young lady"
-高校生,高[こう]校[こう]生[せい],こうこうせい,225,2551,3,senior high school student
 署,署[しょ],しょ,224,5858,1,"station (esp. a police station),office (e.g. tax office)"
-そうそう,そうそう,そうそう,224,1331,"0,1","that's right,quite,indeed,so much,so often,so long,particularly,especially,oh, yes!,that's it,I remember"
-ち,ち,ち,224,1048,0,"blood,blood,ancestry,lineage,stock,(the) blood,feelings,passions"
 真犯人,真[しん]犯[はん]人[にん],しんはんにん,223,9575,3,"the real criminal,true culprit"
 ふう,ふう,ふう,223,1901,1,seal
-３日,３[みっ]日[か],みっか,221,1774,0,"3rd day of the month,three days"
-あんたら,あんたら,あんたら,221,2392,,you (plural)
-言うとおり,言[い]うとおり,いうとおり,221,1605,,as (someone) says
 付着,付[ふ]着[ちゃく],ふちゃく,220,9637,0,"sticking to,clinging to,adhesion,cohesion,agglutination"
-ミステリー,ミステリー,ミステリー,220,13672,1,mystery
-お店,お店[みせ],おみせ,219,1204,0,"store,shop,establishment,restaurant"
-何だか,何[なん]だか,なんだか,219,1882,1,"(a) little,somewhat,somehow"
-まあまあ,まあまあ,まあまあ,217,1313,"1,3","so-so,passable,not (so) bad,reasonable,my, my,oh my!,dear me!,now, now,there, there,there now"
 死亡推定時刻,死[し]亡[ぼう]推[すい]定[てい]時[じ]刻[こく],しぼうすいていじこく,217,20087,,estimated time of death
 く,く,く,217,780,1,"section (i.e. of text),sentence,passage,paragraph,phrase,verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry),haiku,first 17 morae of a renga, etc.,maxim,saying,idiom,expression,clause (e.g. in a database query language)"
+
 どうやって,どうやって,どうやって,217,1663,,"how,in what way,by what means"
 せや,せや,せや,216,6953,,"that is right,that is so,oh, right"
 駆けつける,駆[か]けつける,かけつける,215,3623,"0,4","to run to,to come running,to rush (someplace),to hasten"
-そういうことか,そういうことか,そういうことか,215,3067,,"I got it,I see,I now know,so that's the reason"
-３年,３[さん]年[ねん],さんねん,215,1837,1,three years
-キャッ,キャッ,キャッ,215,3783,1,"yikes!,eek!,ouch!,blech,ook,eek,customer"
-いやいや,いやいや,いやいや,214,652,"0,1","no!,no no!,no, not at all"
 いたずら,いたずら,いたずら,214,4616,0,"pastime,hobby,mischievous,naughty,mischief,prank,trick,practical joke,playing with (e.g. a lighter),fooling around with,messing around with,amusing oneself with,tampering with,lewd behaviour,sexual misconduct,sexual assault,molestation,rape"
-そうだね,そうだね,そうだね,214,756,,"sure,yeah,I know"
-さっきから,さっきから,さっきから,213,1193,,"since some time ago,for some time,for quite a while"
 事務所,事[じ]務[む]所[しょ],じむしょ,212,3213,2,office
 もともと,もともと,もともと,212,1245,0,"originally,from the start,from the beginning,from the outset,by nature,none the worse (for),(coming out) even,in the same position (as before)"
 ハンカチ,ハンカチ,ハンカチ,211,5498,"0,3",handkerchief
-３つ,３[みっ]つ,みっつ,211,2133,"3,0","three,three years of age"
-世良,世良,,210,54355,0,"Sera,Seira,Seyoshi"
 数字,数[すう]字[じ],すうじ,210,2771,0,"numeral,digit,numeric character,figure,number,a few characters"
 ちゃ,ちゃ,ちゃ,208,482,0,"tea,tea plant (Camellia sinensis),tea preparation,making tea,brown,mockery"
-コンビニ,コンビニ,コンビニ,208,3198,0,convenience store
 ひも,ひも,ひも,208,10638,0,"string,cord,leash,man who is financially dependent on a woman,gigolo,pimp,restrictions,conditions,mantle (shellfish, etc.),small intestine (beef, pork),oviduct meat (chicken)"
-クソ,クソ,クソ,207,2079,2,"damn,damn it,shit,crap,feces,excrement,dung,damn,damned,blasted,stupid,very,extremely,really,terrible,awful,shit,crap,a lot,negligible,insignificant,not mattering at all,counting for nothing,hardly worth consideration,out of the question"
 そっくり,そっくり,そっくり,207,1744,3,"all,altogether,entirely,completely,exactly alike (e.g. in appearance),spitting image of,identical,strikingly similar"
-つながる,つながる,つながる,206,1289,0,"to be tied together,to be connected to,to be linked to,to lead to,to be related to,to be related (by blood)"
-ありがとうございます,ありがとうございます,ありがとうございます,206,341,,thank you
-やべ,やべ,やべ,205,7249,1,Yabe
 火事,火[か]事[じ],かじ,205,4912,1,"fire,conflagration"
 時分,時[じ]分[ぶん],じぶん,205,6589,"1,0","time,hour,season,suitable time,opportunity,chance"
-ことになる,ことになる,ことになる,204,773,,"to have been decided (so) that,to have been arranged (so) that,to be the result (of),to be the outcome,to be the reason (for)"
-というのは,というのは,というのは,204,949,,"because ...,for ...,the reason being ...,as for ...,when it comes to ...,regarding ...,how about ..."
 状,状[さま],さま,203,3696,2,"Mr,Mrs,Miss,Ms,makes a word more polite (usu. in fixed expressions),state,situation,appearance,manner"
-ってな,ってな,ってな,202,1584,,"(apparently) that's what it's like, isn't it"
-怜奈,怜奈,,202,81317,,"Rena,Reina"
-何だと,何[なん]だと,なんだと,202,3350,,"what did you just say (to me)?,what's that?"
-そのとおり,そのとおり,そのとおり,202,2159,3,"just like that,quite so,I agree,that street"
-なし,なし,なし,201,637,1,"without,unacceptable,not alright,unsatisfactory,nonexistent"
-んじゃ,んじゃ,んじゃ,201,2345,,bye then
 のぞく,のぞく,のぞく,200,3629,0,"to remove,to get rid of,to take away,to eliminate,to exclude,to except,to leave out,to omit,to kill (a traitor, opponent, etc.)"
 すまん,すまん,すまん,200,1485,,"sorry,excuse me"
 ちなみに,ちなみに,ちなみに,199,1378,"0,1","by the way,in this connection,incidentally,in passing"
-ダイイングメッセージ,ダイイングメッセージ,ダイイングメッセージ,199,36747,6,"dying message (message left by a murder victim just before death; in mystery novels, etc.)"
 はっきり,はっきり,はっきり,199,876,3,"clearly,plainly,distinctly,to be clear,to be definite,to be certain,to be exact,to become clear,to clear up"
 江戸,江[え]戸[ど],えど,198,9629,0,"Edo (shogunate capital; former name of Tokyo),Yedo"
-水無,水無,,198,86037,,Mizunashi
 痕,痕[あと],あと,197,8329,1,"trace,tracks,mark,sign,site,remains,ruins,scar"
-ないと,ないと,ないと,195,694,,"is indispensable,absolutely necessary,have to (verb),must (verb)"
 ほんなら,ほんなら,ほんなら,193,14190,,"then,well then,if so"
-ではない,ではない,ではない,192,348,,"is not,am not,are not"
 おっさん,おっさん,おっさん,191,2947,"0,1","middle-aged man,Buddhist priest"
 そうじゃ,そうじゃ,そうじゃ,190,3928,1,shrine enshrining several gods
 半年,半[はん]年[とし],はんとし,190,1953,"1,0","half a year,six months"
@@ -228,31 +59,16 @@ Reading,ReadingFurigana,ReadingKana,Occurences,ReadingFrequency,PitchPositions,D
 右手,右[みぎ]手[て],みぎて,189,2841,1,"right-hand side,right-hand direction,(on) the right,right hand"
 バッジ,バッジ,バッジ,188,16588,"1,0",badge
 バーロー,バーロー,バーロー,187,45034,,"goddamn idiot,moron,nitwit"
-下りる,下[お]りる,おりる,187,2098,2,"to descend (e.g. a mountain),to go down,to come down,to alight (e.g. from bus),to get off,to disembark,to dismount,to step down,to retire,to give up,to quit,to fold,to be granted,to be issued,to be given,to form (of frost, dew, mist, etc.),to be passed (from the body; e.g. of a roundworm)"
-何者か,何[なに]者[もの]か,なにものか,186,2976,,someone
 １本,１[いっ]本[ぽん],いっぽん,186,2358,"1,0","single-minded focus on ...,geisha,ippon,one point,a blow,one book,a certain book,one version,one long cylindrical thing,one film, TV show, etc.,one goal, home run, etc.,one telephone call"
-スタッフ,スタッフ,スタッフ,186,3076,2,"staff,staff member"
 仕業,仕[し]業[わざ],しわざ,186,2572,0,"deed (esp. negative),act,action,one's doing,one's work"
-いいから,いいから,いいから,186,395,1,"listen up,never mind that,don't worry about that"
-いいかげん,いいかげん,いいかげん,185,2097,"0,1","considerably,quite,rather,pretty,irresponsible,perfunctory,careless,lukewarm,half-baked,halfhearted,vague,(already) enough"
-この辺,この辺[へん],このへん,185,1644,0,"this area,around here,this point,this much,this extent"
-泊まる,泊[と]まる,とまる,185,1794,0,"to stay at (e.g. hotel),to be docked,to be berthed,to be moored"
-そこまで,そこまで,そこまで,185,542,3,"stop!,not one step further!,that far,so far,to that extent"
-ふむ,ふむ,ふむ,185,2550,1,"hmm,I see,hrm"
-この中,この中[うち],このうち,184,2713,,"among these,between these,of these,in here,in this"
-１時,１[いち]時[じ],いちじ,184,8526,"0,4","one o'clock,once,at one time,formerly,before,for a time,for a while,for the time being,for the moment,temporarily,a time,one time,once"
+
 被疑者,被[ひ]疑[ぎ]者[しゃ],ひぎしゃ,184,14754,2,suspect
 予告,予[よ]告[こく],よこく,184,6789,0,"(advance) notice,preliminary announcement,warning,trailer (for a film, TV show, etc.)"
-立てる,立[た]てる,たてる,183,772,2,"to stand up,to put up,to set up,to erect,to raise,to thrust into,to bury into,to dig into,to make (a noise),to start (a rumour),to raise (a cloud of dust, etc.),to cause,to make,to establish,to set up,to develop,to formulate,to put up (a political candidate),to make (one's leader),to treat with respect,to give (someone) their due,to make (someone) look good,to avoid embarrassing (someone),to sharpen,to make clear,to shut,to close,to make tea (matcha),to perform the tea ceremony,to divide by,to do ... vigorously"
-マネ,マネ,マネ,183,3591,0,"imitating,copying,mimicry,behavior,behaviour,action,conduct"
 ども,ども,ども,182,1170,,"but,however,even though,even if"
 探偵団,探[たん]偵[てい]団[だん],たんていだん,181,50927,,"study group,club,detective team"
-それにしても,それにしても,それにしても,181,1141,5,"nevertheless,at any rate,even so,all things considered,be that as it may"
-目の前,目[め]の前[まえ],めのまえ,181,892,3,"immediate,imminent,around the corner,before one's eyes,in front of one,under one's nose"
 丁目,丁[ちょう]目[め],ちょうめ,180,7624,3,"district of a town,city block (of irregular size)"
-なので,なので,なので,180,775,,"because,as,since"
-さて,さて,さて,180,721,1,"well,now,then"
 パトカー,パトカー,パトカー,179,10665,"3,2","patrol car,police car,squad car,cruiser"
+
 おーい,おーい,おーい,179,2216,"1,2","hey!,oi!,ahoy!"
 着ける,着[つ]ける,つける,178,3147,2,"to attach,to join,to connect,to add,to append,to affix,to stick,to glue,to fasten,to sew on,to apply (ointment),to put against,to furnish (a house with),to wear,to put on,to keep a diary,to make an entry,to appraise,to set (a price),to allot,to budget,to assign,to bring alongside,to place (under guard or doctor),to follow (someone),to shadow,to tail,to stalk,to load,to give (courage to),to keep (an eye on),to establish (relations or understanding),to turn on (a light),to produce flowers (of a plant),to produce fruit,to do intensely,to do fiercely,to do strongly,to be used to (doing),to be accustomed to"
 強盗犯,強[ごう]盗[とう]犯[はん],ごうとうはん,178,37921,,robber
