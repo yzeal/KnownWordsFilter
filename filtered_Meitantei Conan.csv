@@ -1,161 +1,73 @@
 Reading,ReadingFurigana,ReadingKana,Occurences,ReadingFrequency,PitchPositions,Definitions
 
-号室,号[ごう]室[しつ],ごうしつ,155,7889,,"suffix for room numbers,suffix for apartment numbers"
-証人,証[しょう]人[にん],しょうにん,155,7784,0,witness
-風呂場,風[ふ]呂[ろ]場[ば],ふろば,155,8407,3,bathroom
-わしら,わしら,わしら,154,5198,2,"we,us"
-毒物,毒[どく]物[ぶつ],どくぶつ,154,18911,"2,0","poisonous substance,toxic substance,poison"
-動かす,動[うご]かす,うごかす,153,1242,3,"to move,to shift,to stir,to budge,to change position,to inspire,to rouse,to move (e.g. feeling),to influence,to change,to alter,to deny,to operate,to set in motion,to get going,to mobilize (e.g. troops),to mobilise,to deploy,to manage (e.g. funds)"
-防犯カメラ,防[ぼう]犯[はん]カメラ,ぼうはんカメラ,153,10971,,security camera
-薫,薫[かおり],かおり,152,17347,0,"aroma,fragrance,scent,smell"
-見張る,見[み]張[は]る,みはる,151,2667,0,"to stand watch,to stand guard,to look out,to open (one's eyes) wide"
-殺人犯,殺[さつ]人[じん]犯[はん],さつじんはん,150,10013,3,murderer
-不審,不[ふ]審[しん],ふしん,149,4449,0,"doubt,suspicion,question,strangeness"
-銃声,銃[じゅう]声[せい],じゅうせい,148,6626,0,"sound of a gunshot,report of a gun"
-時刻,時[じ]刻[こく],じこく,145,4191,1,"time,(the) hour,favourable time,opportunity,chance"
-ご苦労,ご苦[く]労[ろう],ごくろう,145,1251,2,"trouble (I have put you through),(your) hard work,thank you (for your hard work),I appreciate your efforts"
-探偵事務所,探[たん]偵[てい]事[じ]務[む]所[しょ],たんていじむしょ,144,31447,,"detective bureau,detective agency,investigation firm"
-ちょこ,ちょこ,ちょこ,144,4560,1,"sake cup,small deep porcelain bowl for serving food"
-遺書,遺[い]書[しょ],いしょ,143,10588,1,"note left by a dead person,suicide note,testamentary letter,will,testament,posthumous work"
-おっしゃる,おっしゃる,おっしゃる,142,1465,3,"to say,to speak,to tell,to be called"
-ガムテープ,ガムテープ,ガムテープ,140,25216,3,packing tape
-店長,店[てん]長[ちょう],てんちょう,138,3884,1,shop manager
-妃,妃[きさき],きさき,137,18490,"2,0","empress (consort),queen (consort)"
-いったん,いったん,いったん,137,2613,0,"once,for a short time,briefly,temporarily,one morning"
-引っかける,引[ひ]っかける,ひっかける,137,11603,4,"to hang (something) on (something),to throw on (clothes),to hook,to catch,to trap,to ensnare,to cheat,to evade payment,to jump a bill,to drink (alcohol),to splash someone (with),to hit the ball off the end of the bat"
-平,平[ひら],ひら,137,7712,1,"something broad and flat,common,ordinary,plain,rank-and-file,low-ranking employee,freshman,novice,private"
-痕跡,痕[こん]跡[せき],こんせき,137,4919,0,"trace,vestige,mark,sign,evidence"
-合鍵,合[あい]鍵[かぎ],あいかぎ,137,17159,0,"duplicate key,master key,passkey,skeleton key"
-盗聴,盗[とう]聴[ちょう],とうちょう,136,9500,0,"interception (email),wiretap,bug"
-睡眠薬,睡[すい]眠[みん]薬[やく],すいみんやく,136,14565,3,"sleeping pill,sleep medication"
-け,け,け,135,3587,0,"lacking substance and existing in name only,something without substance"
-突き止める,突[つ]き止[と]める,つきとめる,135,4187,4,"to determine (esp. a culprit or underlying cause),to pin down,to ascertain,to locate,to identify,to stab to death"
-つぼ,つぼ,つぼ,134,6278,1,"grain,bead,drop,counter for small round objects including grains, seeds, pills, drops"
-
 抜け出す,抜[ぬ]け出[だ]す,ぬけだす,134,2601,3,"to slip out,to sneak away,to break free,to get through (a difficult situation),to break into the lead,to get ahead,to begin to fall out (e.g. hair),to break out (of a loop)"
 入り,入[い]り,いり,134,2117,0,"entering,entrance,entry,attendance,audience,number (of visitors, customers, etc.),containing,income,earnings,takings,expenses,expenditure,setting (of the Sun or Moon),beginning (of the equinoctial week, midsummer, etc.),start,first day"
-
-バー,バー,バー,134,1749,1,"bar,tavern,barroom,pub,bar (establishment, counter, etc. where food and drinks are sold),bar (in the high jump or pole vault),crossbar (in soccer, rugby, etc.),(ballet) barre"
-調べ,調[しら]べ,しらべ,134,2786,3,"investigation,inspection,examination,tune,note,melody"
 金庫,金[きん]庫[こ],きんこ,134,9163,1,"safe,strongbox,cashbox,vault,strongroom,depository,cash office,treasury,provider of funds"
-すっごい,すっごい,すっごい,133,1162,,"to a great extent,vast (in numbers),amazing (e.g. of strength),great (e.g. of skills),wonderful,terrific,terrible,dreadful"
-なんてこと,なんてこと,なんてこと,133,1680,,"my goodness!,good lord!,holy cow!"
-オーケー,オーケー,オーケー,133,3981,"1,2,3","fine (without),not needed,unnecessary,all right,OK,okay"
-っぱなし,っぱなし,っぱなし,132,2253,,"leaving (on, open, unfinished, etc.),(doing) continuously,constantly,keep ...-ing"
 空き巣,空[あ]き巣[す],あきす,132,22233,0,"empty nest,empty house,empty home,burglary (of an empty house),burglar (who targets empty houses),sneak thief,prowler"
-スピリッツ,スピリッツ,スピリッツ,132,40476,2,spirits (distilled beverage)
-安室,安室,,132,70293,,"Ajitsu,Yasumoro,Yasumuro,Amuro,Azuchi"
-髪,髪[かみ],かみ,131,1218,2,hair (on the head)
 あん,あん,あん,131,1166,1,"red bean paste,red bean jam,anko,kudzu sauce,filling (of a dumpling, etc.),filling,stuffing,inside"
-チケット,チケット,チケット,131,4514,"2,1",ticket
-１度,１[いち]度[ど],いちど,130,6157,2,"once,one time,on one occasion,temporarily,for a moment,one degree,one tone,one musical interval"
 念のため,念[ねん]のため,ねんのため,130,2639,"0,5","just in case,for caution's sake,by way of precaution,just to make sure,just to be sure,for confirmation"
 釣り糸,釣[つ]り糸[いと],つりいと,129,33814,0,fishing line
-うわ,うわ,うわ,129,537,,"yikes,oops,eep,wow,aargh"
-分かんない,分[わ]かんない,わかんない,129,1464,,"not understanding,not knowing"
-ぼ,ぼ,ぼ,129,2521,3,"5th in rank,fifth sign of the Chinese calendar"
-マジック,マジック,マジック,129,8013,"1,2","magic,Magic Marker,felt-tip pen,permanent marker,magic number"
 刃物,刃[は]物[もの],はもの,128,5769,1,"edged tool,cutting instrument,knife"
 発見者,発[はっ]見[けん]者[しゃ],はっけんしゃ,128,13827,,discoverer
-お酒,お酒[さけ],おさけ,128,2012,,"alcohol,sake"
-ことができる,ことができる,ことができる,127,1202,,"to be able (to),to be possible (to)"
 閉じ込める,閉[と]じ込[こ]める,とじこめる,126,2682,"4,0","to lock up,to shut up,to imprison"
 片方,片[かた]方[ほう],かたほう,126,4236,2,"one side,one party,the other side,the other party,one (of a pair),the other (one),the mate,the fellow"
 ズボン,ズボン,ズボン,126,5505,"1,3,0","trousers,pants"
-住人,住[じゅう]人[にん],じゅうにん,125,3830,0,"dweller,inhabitant,resident,user (of a website)"
 何度も,何[なん]度[ど]も,なんども,125,1433,,"many times over,often,repeatedly,time after time"
-フィルム,フィルム,フィルム,125,13063,1,film
 寝室,寝[しん]室[しつ],しんしつ,125,6689,0,bedroom
 瓶,瓶[びん],びん,125,6538,1,"bottle,jar,decanter,flagon,phial,vial"
 可能性が高い,可[か]能[のう]性[せい]が高[たか]い,かのうせいがたかい,124,4167,,"very likely,very probable"
-お姉ちゃん,お姉[ねえ]ちゃん,おねえちゃん,124,1817,,"lass,young lady,older sister"
 なくす,なくす,なくす,124,1769,0,"to lose (something),to get rid of,to eliminate,to remove,to eradicate,to abolish"
-ってか,ってか,ってか,122,2686,,"or rather (say),or better (say),or perhaps I should say,or, how should I put it,...,I mean"
-小林,小林,,122,13165,0,"Kojiyashi,Obayashi,Ohayashi,Kobayachi,Kobayaki,Kohayashi,Kobayaha,Kobayashi,Hirokazu"
-シーッ,シーッ,シーッ,122,6702,1,"shh!,shush!,hush!,shoo!,scram!"
 よろしい,よろしい,よろしい,122,924,"3,0","good,OK,all right,fine,very well,will do,may,can"
-江戸川,江戸川,,122,56476,0,Edogawa
-かん,かん,かん,121,3016,0,"perception,intuition,the sixth sense"
 手すり,手[て]すり,てすり,121,13448,3,"handrail,railing,banister"
-おや,おや,おや,121,2138,"2,1","oh!,oh?,my!"
 柄,柄[がら],がら,121,4018,2,"pattern,design,body build,figure,physique,essential qualities,character,nature,appropriate to,fitting of,suitable for"
 ひょっとしたら,ひょっとしたら,ひょっとしたら,121,5817,,"possibly,by some possibility,perhaps"
-かね,かね,かね,120,2139,0,"money,metal"
 蔵,蔵[くら],くら,120,9887,2,"warehouse,storehouse,cellar,magazine,granary,godown,depository,treasury,elevator"
-急に,急[きゅう]に,きゅうに,120,1016,0,"swiftly,rapidly,quickly,immediately,hastily,hurriedly,suddenly,abruptly,unexpectedly,sharply (of a slope, bend, etc.),steeply"
-ゴメラ,ゴメラ,ゴメラ,120,138845,,Gomera
-タクシー,タクシー,タクシー,119,3900,1,taxi
 前後,前[ぜん]後[ご],ぜんご,119,4129,1,"front and rear,front and back,before and behind,back and forth,before and after,around,about,approximately,order,context,consequences,just when,around the time of,inversion,reversion,getting out of order,co-occurring,happening at the same time"
 はめる,はめる,はめる,119,3488,0,"to fit (e.g. a pane into a frame),to insert (e.g. a cork),to fasten (a button),to put on (something that envelops; e.g. a ring, gloves),to place (a hoop) around,to attach (e.g. a hose to a tap),to pigeonhole (into a particular category),to force (into a mold),to place (restrictions) on,to entrap,to take (someone) in,to set (someone) up,to deceive,to throw into,to have sex,to fuck"
 雇う,雇[やと]う,やとう,119,2662,2,"to employ,to hire,to take on,to charter (a car, boat, etc.),to hire"
-瑛祐,瑛祐,,119,164520,,Eisuke
-だらけ,だらけ,だらけ,118,1420,,"covered all over with (blood, mud, etc.),full of (e.g. mistakes),riddled with"
 細工,細[さい]工[く],さいく,118,6229,"3,0","work,workmanship,craftsmanship,handiwork,artifice,trick,device,tampering,doctoring"
 暗闇,暗[くら]闇[やみ],くらやみ,118,4094,0,"darkness,the dark"
 秘書,秘[ひ]書[しょ],ひしょ,118,6047,"2,1","(private) secretary,treasured book,secret book"
 遺産,遺[い]産[さん],いさん,118,8218,0,"inheritance,bequest,legacy,heritage"
-横溝,横溝,,118,76127,2,"Yokomizo,Yokomiso"
-お前たち,お前[まえ]たち,おまえたち,117,1426,2,you (plural)
-すっげえ,すっげえ,すっげえ,117,4783,2,"incredible,unbelievable,terrific,impressive"
 裏口,裏[うら]口[ぐち],うらぐち,117,8130,0,"backdoor,rear entrance,rear exit,unauthorized,illicit,illegal"
-そら,そら,そら,117,3655,"1,0","sky,the air,the heavens,weather,far-off place,distant place,state of mind,feeling,(from) memory,(by) heart,falsehood,lie,somehow,vaguely,fake"
 東都,東[とう]都[と],とうと,117,31812,1,"the Eastern Capital (now Tokyo),Yedo,Edo"
-べき,べき,べき,117,346,1,"should,must,ought to"
+
 書斎,書[しょ]斎[さい],しょさい,117,12153,0,"study,library,den,home office,reading room"
-デパート,デパート,デパート,117,10037,2,"department,department store"
-４年,４[よ]年[ねん],よねん,116,5222,,four years
-あれれ,あれれ,あれれ,116,8443,1,"tsk tsk,oh-oh,huh,what's that?"
 捜査官,捜[そう]査[さ]官[かん],そうさかん,116,19945,,(police) investigator
 潜む,潜[ひそ]む,ひそむ,116,4258,2,"to lurk,to be hidden,to be concealed,to lie dormant,to be latent"
-ひょっとして,ひょっとして,ひょっとして,116,2559,,"by any chance,(should) it happen (that),by some chance"
 すり替える,すり替[か]える,すりかえる,116,11489,"4,3,0","to switch (secretly),to substitute,to replace,to sidestep (an issue)"
-５人,５[ご]人[にん],ごにん,116,3263,,five people
 じゃろ,じゃろ,じゃろ,115,8768,,"seems,I think,I guess,right?,don't you agree?"
-リズム,リズム,リズム,115,5945,1,rhythm
-板倉,板倉,,115,59743,"0,2","Itakura,Sakakura,Itagura"
 腕時計,腕[うで]時計[どけい],うでどけい,115,11518,3,"wristwatch,watch"
-いつか,いつか,いつか,115,534,1,"sometime,someday,one day,some time or other,the other day,in due course,in time"
 亀,亀[かめ],かめ,115,9672,1,"turtle crest,turtle mon,tortoise,turtle,heavy drinker"
 ご存じ,ご存[ぞん]じ,ごぞんじ,115,1571,2,"(an) acquaintance,knowing,being aware (of)"
-おー,おー,おー,114,1784,"1,0","oh!,good heavens!,ugh!,oh no!,ah!,the penny drops!,yes!,okay!"
 シミ,シミ,シミ,114,11688,0,"stain,spot,smudge,blot,smear,blotch,spot (on one's skin, e.g. chloasma, liver spot),blemish,discoloration,freckle"
 外部,外[がい]部[ぶ],がいぶ,113,4277,1,"outside (of a group, company, etc.),outside world,outside (e.g. of a building),exterior"
 脅す,脅[おど]す,おどす,113,3086,"0,2","to threaten,to menace,to frighten (into doing)"
-関係ない,関[かん]係[けい]ない,かんけいない,113,855,,"unrelated,irrelevant,unconcerned,unconnected"
 外国人,外[がい]国[こく]人[じん],がいこくじん,113,6870,4,"foreigner,foreign citizen,foreign national,alien,non-Japanese"
-ボート,ボート,ボート,113,10074,1,"boat,rowing boat"
 持ち主,持[も]ち主[ぬし],もちぬし,113,2823,2,"owner,proprietor,possessor (e.g. of talent, beauty, etc.)"
 ひかる,ひかる,ひかる,112,4648,2,"to shine,to glitter,to be bright"
-他にも,他[ほか]にも,ほかにも,112,2348,,"furthermore,even more"
 突き落とす,突[つ]き落[お]とす,つきおとす,112,7143,4,"to thrust down,to push off"
-４時,４[よ]時[じ],よじ,112,7773,1,four o'clock
-１日,１[いち]日[にち],いちにち,112,1614,2,"one day,all day (long),the whole day,from morning till night,first day of the month"
 何しろ,何[なに]しろ,なにしろ,111,4877,1,"in any case,at any rate,anyhow,anyway,as you know,for you see,particularly,because,since,for,after all"
 寺,寺[てら],てら,111,7698,"2,0",temple (Buddhist)
-ことはない,ことはない,ことはない,110,842,,"never happens,there is never a time when,there is no need to ..."
 助け,助[たす]け,たすけ,110,1371,3,"assistance,help,aid,support,reinforcement"
-ひと,ひと,ひと,110,715,0,"another person,other people,others,unrelated person (i.e. not related by blood),outsider,stranger"
 監禁,監[かん]禁[きん],かんきん,109,7217,0,"confinement,imprisonment,incarceration"
 魔女,魔[ま]女[じょ],まじょ,109,6012,1,witch
 フン,フン,フン,109,2124,2,"feces (esp. animal),excrement,dung"
-のように,のように,のように,109,1757,,"as with,in the same way,like,similar to"
-っていうか,っていうか,っていうか,109,1800,,"or rather (say),or better (say),or perhaps I should say,or, how should I put it,I mean"
 ついに,ついに,ついに,109,943,1,"finally,in the end,at last,in the end,after all,never (happened)"
 忍び込む,忍[しの]び込[こ]む,しのびこむ,109,5599,4,"to creep in,to steal in,to sneak in"
-中には,中[なか]には,なかには,109,1984,,"among (them),of (them)"
-ストーカー,ストーカー,ストーカー,109,5378,"2,0",stalker
 出入り,出[で]入[い]り,でいり,109,3399,"0,2,1","going in and out,entering and exiting,visiting regularly,frequenting,having regular dealings with,income and expenditure,incomings and outgoings,increase and decrease,surplus and deficit,fluctuation,fight,trouble,quarrel,dispute,indentations (e.g. of a coastline)"
 運転手,運[うん]転[てん]手[しゅ],うんてんしゅ,108,4655,3,"driver,chauffeur"
 ペットボトル,ペットボトル,ペットボトル,108,11265,4,"plastic bottle (made of polyethylene terephthalate),PET bottle"
 こる,こる,こる,108,1380,1,"to become stiff (of muscles),to get absorbed in,to develop a passion for,to devote oneself to,to become obsessed with,to get hooked on,to be elaborate,to be intricate,to be exquisite,to be particular about,to pay great attention to"
-赤,赤[あか],あか,108,2215,1,"red,crimson,scarlet,red-containing colour (e.g. brown, pink, orange),Red (i.e. communist),red light (traffic),red ink (i.e. in finance or proof-reading),(in) the red,complete,total,perfect,obvious,copper,red 5-point card"
 店員,店[てん]員[いん],てんいん,108,2978,0,"employee (of a store),shop assistant,clerk,salesperson"
 札,札[ふだ],ふだ,108,6843,0,"ticket,token,check,receipt,label,tag,sign,card,plate,playing card,charm,talisman,slip of paper posted on shrine pillars by pilgrims"
 課,課[か],か,108,4556,1,"counter for lessons and chapters (of a book),section (in an organization),division,department,lesson"
 おととい,おととい,おととい,107,7738,4,day before yesterday
+
 脱出,脱[だっ]出[しゅつ],だっしゅつ,107,2835,0,"escape,getting away (from),getting out (of),prolapse,proptosis"
 疑い,疑[うたが]い,うたがい,107,2860,0,"doubt,question,uncertainty,skepticism,scepticism,suspicion,distrust"
 捜索,捜[そう]索[さく],そうさく,107,3533,0,"search (esp. for someone or something missing),manhunt,legally authorized search of a person, building, etc."
+
 今すぐ,今[いま]すぐ,いますぐ,106,1010,,"at once,immediately,right now"
 ミス,ミス,ミス,106,1835,"1,1","mistake,error,blunder"
 払う,払[はら]う,はらう,106,977,2,"to pay (e.g. money, bill),to brush off,to wipe away,to clear away,to dust off,to cut off (e.g. branches),to drive away (e.g. one's competitors),to sell off (something unneeded),to dispose of,to pay (e.g. attention),to show (e.g. respect, concern),to make (e.g. effort, sacrifice),to expend,to exert,to move out (of one's own place),to vacate,to sweep (e.g. one's legs),to knock aside,to make a sweeping stroke (in Japanese calligraphy),to reset (an abacus)"
